@@ -1,5 +1,6 @@
 ## Flushed Koodarit Group
 
+more info coming soon tm
 <!--
 
 **Here are some ideas to get you started:**
