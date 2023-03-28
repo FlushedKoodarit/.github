@@ -1,4 +1,4 @@
-## Flushed Koodarit Group
+## Flushed Koodarit
 
 more info coming soon tm
 <!--
