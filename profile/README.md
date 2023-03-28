@@ -5,7 +5,7 @@ Flushed Koodarit is a group of computer science students from different year gro
 ## Active Projects:
 ### Movie Club Web App
   - Project Link: https://github.com/orgs/FlushedKoodarit/projects/1
-  - Every Friday, the Flushed Koodarit group gathers to watch 2 movies that are randomly picked from a list that everyone can add movies to.
+  - Every Friday, the Flushed group gathers to watch 2 movies that are randomly picked from a list that everyone can add movies to.
   - **This web app will be used to:**
     - Collectively grade movies
     - Maintain a collection of previously watched movies
