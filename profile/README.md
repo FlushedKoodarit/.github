@@ -6,6 +6,7 @@ Flushed Koodarit is a group of computer science students from different year gro
 ### Movie Club Web App
   - Every Friday, the Flushed group gathers to watch 2 movies that are randomly picked from a list that everyone can add movies to.
   - **This web app will be used to:**
+    - Show selected movies for the upcoming movie nights
     - Collectively grade movies
     - Maintain a collection of previously watched movies
     - Add new movies to the collection
